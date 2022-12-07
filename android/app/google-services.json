@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855006989889",
+    "project_id": "connectabc-97e5b",
+    "storage_bucket": "connectabc-97e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855006989889:android:3f8b539c9a1626c88500c0",
+        "android_client_info": {
+          "package_name": "com.example.mmo_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855006989889-1h3tls933a15sa783stn0bhp0icp8g6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3WOL5zjV33gMXgo-ww8kjGEcKfxqM1oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855006989889-1h3tls933a15sa783stn0bhp0icp8g6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
